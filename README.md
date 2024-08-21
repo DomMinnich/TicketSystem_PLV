@@ -1,8 +1,8 @@
 # TicketSystem_PLV
 
-Developed, designed, and deployed by Dominic Minnich
+_Developed, designed, and deployed by Dominic Minnich_
 
-Currently in production and used at Bishop Dwneger High School and Saint Elizabeth Ann Seton School
+**Currently in production and used at Bishop Dwneger High School and Saint Elizabeth Ann Seton School (hence no public code)**
 
 This self-hosted ticket management system enables users to create, view, and close tickets, with email notifications sent upon ticket creation and commenting. 
 Built with Flask and SQLAlchemy, the system includes features like full forum commenting, multi-connectivity email notifications, and a department-specific task management system.
